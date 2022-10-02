@@ -22,6 +22,7 @@ public class Control {
   }
   public static void main(String[] args) throws IOException {
 	  Control control=new Control();
+	  //increase something
   }
   public void tothird(boolean computerplayermood) throws GameActionException {
 	  second.setVisible(false);
